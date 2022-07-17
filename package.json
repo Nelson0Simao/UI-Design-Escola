@@ -1,0 +1,30 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "^16 || ^18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelson0Simao/Institui-o-Privada-IPPIE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nelson0Simao/Institui-o-Privada-IPPIE/issues"
+  },
+  "homepage": "https://github.com/Nelson0Simao/Institui-o-Privada-IPPIE#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "mocha": "9"
+  }
+}
