@@ -7,7 +7,7 @@ Clone projecto
 ```
 git clone https://github.com/Nelson0Simao/Institui-o-Privada-IPPIE/
 ```
-Abrir Index do projecto [ links ]
+Abrir Index do projecto [ Linux ]
 ```
   firefox index.html
 ```
