@@ -1,1 +1,5 @@
-# Usamos este arquivo para definir as rotas que os robos do google não poder renderizar na pesquisa;
+Disallow: /login
+Disallow: /administrativa
+Disallow: /configuracao
+ 
+ 
