@@ -5,7 +5,7 @@ Template UI para escola privada o code fonte é publico para edição do condigo
 
 Clone projecto
 ```
-git clone https://github.com/Nelson0Simao/Institui-o-Privada-IPPIE/
+    git clone https://github.com/Nelson0Simao/Institui-o-Privada-IPPIE/
 ```
 Abrir Index do projecto [ Linux ]
 ```
